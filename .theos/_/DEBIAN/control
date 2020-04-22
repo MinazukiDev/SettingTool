@@ -1,0 +1,11 @@
+Package: com.minazuki.settingtool
+Name: Setting Tool
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Customize the settings app.
+Depiction: https://minazukidev.github.io/html/SettingTool/index.html
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 152
